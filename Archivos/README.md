@@ -34,7 +34,7 @@ int main()
         cin >> edad;
         cin >> promedio;
 
-        archivo << id <<";"<<nombre<<";"<<apellido<<";"<<edad<<";"<<promedio<<"\n";
+        archivo << id << ";" << nombre<< ";" << apellido << ";" << edad << ";" << promedio << "\n";
       
     }
     archivo.close();
@@ -71,7 +71,7 @@ int main()
         }
     
     }
-    cout <<id<<","<<nombre<<","<<apellido<<","<<edad<<","<<promedio<<"\n";
+    cout << id << "," << nombre << "," << apellido << "," << edad << "," << promedio << "\n";
 
     }
     return 0;
