@@ -6,6 +6,7 @@
 - [https://www.learncpp.com/cpp-tutorial/the-hidden-this-pointer/](https://www.learncpp.com/cpp-tutorial/the-hidden-this-pointer/)
 - [http://www.cplusplus.com/doc/tutorial/](http://www.cplusplus.com/doc/tutorial/)
 - [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/)
+- [https://elcodigoascii.com.ar/](https://elcodigoascii.com.ar/)
 
 ![alt text](uno.png)
 # 1. Introducción a Clases y Objetos en C++
