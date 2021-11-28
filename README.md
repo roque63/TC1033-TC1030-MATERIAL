@@ -1,6 +1,7 @@
 # TC1033-MATERIAL
 
 
+- [https://www.lucidchart.com/pages/es/tutorial-de-diagrama-de-clases-uml#discovery__top](https://www.lucidchart.com/pages/es/tutorial-de-diagrama-de-clases-uml#discovery__top)
 - [https://www.learncpp.com/](https://www.learncpp.com/)
 - [https://www.learncpp.com/cpp-tutorial/passing-arguments-by-reference/](https://www.learncpp.com/cpp-tutorial/passing-arguments-by-reference/)
 - [https://www.learncpp.com/cpp-tutorial/the-hidden-this-pointer/](https://www.learncpp.com/cpp-tutorial/the-hidden-this-pointer/)
