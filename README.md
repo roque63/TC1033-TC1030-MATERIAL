@@ -20,4 +20,7 @@ ______
 # 4. Arreglos de Objetos
 ____
 
+![alt text](Herencia.png)
+# 5. Herencia
+
 https://www.markdownguide.org/cheat-sheet/
