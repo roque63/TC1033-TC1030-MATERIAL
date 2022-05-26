@@ -23,4 +23,8 @@ ____
 ![alt text](Herencia.png)
 # 5. Herencia
 
+
+![alt text](/Archivos/Poliformismo.png)
+# 5. Poliformismo
+
 https://www.markdownguide.org/cheat-sheet/
