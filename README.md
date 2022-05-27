@@ -26,6 +26,6 @@ ____
 
 
 ![alt text](/Archivos/Poliformismo.png)
-# 5. Poliformismo
+# 6. Poliformismo
 
 https://www.markdownguide.org/cheat-sheet/
