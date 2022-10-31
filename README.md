@@ -1,6 +1,9 @@
 # TC1033-MATERIAL
 
 
+
+- [Funciones c++](https://drive.google.com/file/d/1nTqMB1emVW0om0Rm7x1r2DG3ctfUXgsj/view?usp=sharing)
+
 - [https://www.lucidchart.com/pages/es/tutorial-de-diagrama-de-clases-uml#discovery__top](https://www.lucidchart.com/pages/es/tutorial-de-diagrama-de-clases-uml#discovery__top)
 - [https://www.learncpp.com/](https://www.learncpp.com/)
 - [https://www.learncpp.com/cpp-tutorial/passing-arguments-by-reference/](https://www.learncpp.com/cpp-tutorial/passing-arguments-by-reference/)
