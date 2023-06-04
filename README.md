@@ -31,7 +31,7 @@ ____
 ![alt text](/Archivos/Poliformismo.png)
 # 6. Poliformismo
 
-![alt_text][Siete.png]
+![alt_text](Siete.png)
 # 7. Sobrecarga
 
 https://www.markdownguide.org/cheat-sheet/
